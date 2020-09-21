@@ -1,6 +1,4 @@
-*secret_file.html
+*.secret_file.html
 *another_secret_file.html
 another_secret_file.html
-/another_secret_file.html
-ignore another_secret_file.html
-*.another_secret_file.HTML
+*.html
